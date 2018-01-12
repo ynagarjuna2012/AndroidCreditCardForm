@@ -14,4 +14,6 @@
     <color name="bt_white_54">#8affffff</color>
     <color name="bt_black_87">#de000000</color>
     <color name="bt_white_87">#deffffff</color>
+
+    <color name="bt_brandGrayLight">#bbbbbb</color>
 </resources>
