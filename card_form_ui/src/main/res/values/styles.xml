@@ -98,7 +98,7 @@
         <item name="android:scrollbarAlwaysDrawVerticalTrack">true</item>
     </style>
 
-    <style name="divider">
+    <style name="bt_divider">
         <item name="android:layout_marginTop">4dp</item>
         <item name="android:layout_marginStart">8dp</item>
         <item name="android:layout_marginEnd">8dp</item>

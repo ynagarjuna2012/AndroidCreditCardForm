@@ -43,7 +43,7 @@ public class BaseCardFormActivity extends AppCompatActivity implements OnCardFor
 
         // Warning: this is for development purposes only and should never be done outside of this example app.
         // Failure to set FLAG_SECURE exposes your app to screenshots allowing other apps to steal card information.
-        getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
+//        getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
     }
 
     @Override
