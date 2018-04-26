@@ -116,7 +116,7 @@
 
     </LinearLayout>
 
-    <View style="@style/bt_divider"/>
+    <!--<View style="@style/bt_divider"/>-->
 
     <LinearLayout
         style="@style/bt_field_container"
